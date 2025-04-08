@@ -61,7 +61,7 @@
             "correct": 3
         },
          {
-            "question": "A student multiplied a number by	3/5	instead of	5/3  What is the percentage error in the calculation?	.",
+            "question": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
             "options": [
                 "34%",
                 "44%",
@@ -371,7 +371,7 @@
             "correct": 1
         }, 
         {
-            "question": "The banker's discount on a certain sum due 2 years hence is	11/10	of the True discount The rate percent is.:",
+            "question": "The banker's discount on a certain sum due 2 years hence is 11/10 of the True discount the rate percent is?",
             "options": [
                 "11%",
                 "10%",
