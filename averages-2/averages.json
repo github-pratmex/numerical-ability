@@ -9,7 +9,7 @@
         "6.75",
         "7"
       ],
-      "correct": "0"
+      "correct": 0
     },
     {
       "question": "A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?",
@@ -19,7 +19,7 @@
         "6001",
         "6991"
       ],
-      "correct": "0"
+      "correct": 0
     },
     {
       "question": "The average of 20 numbers is zero. Of them, at the most, how many may be greater than zero?",
@@ -29,7 +29,7 @@
         "10",
         "19"
       ],
-      "correct": "3"
+      "correct": 3
     },
     {
       "question": "The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
@@ -40,7 +40,7 @@
         "Data Inadequte",
         "None of these"
       ],
-      "correct": "2"
+      "correct": 2
     },
     {
       "question": "The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?",
@@ -50,7 +50,7 @@
         "25 years",
         "None of above"
       ],
-      "correct": "0"
+      "correct": 0
     },
     {
       "question": "The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is:",
@@ -60,7 +60,7 @@
         "4050",
         "5000"
       ],
-      "correct": "1"
+      "correct": 1
     },
     {
       "question": "The average age of husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is:",
@@ -70,7 +70,7 @@
         "50 years",
         "None of these"
       ],
-      "correct": "1"
+      "correct": 1
     },
     {
       "question": "A car owner buys petrol at Rs.7.50, Rs. 8 and Rs. 8.50 per litre for three successive years. What approximately is the average cost per litre of petrol if he spends Rs. 4000 each year?",
@@ -80,7 +80,7 @@
         "Rs. 8.50",
         "Rs. 9"
       ],
-      "correct": "0"
+      "correct": 0
     },
     {
       "question": "In Arun's opinion, his weight is greater than 65 kg but less than 72 kg. His brother does not agree with Arun and he thinks that Arun's weight is greater than 60 kg but less than 70 kg. His mother's view is that his weight cannot be greater than 68 kg. If all are them are correct in their estimation, what is the average of different probable weights of Arun?",
@@ -90,7 +90,7 @@
         "69 kg",
         "Node of the above"
       ],
-      "correct": "0"
+      "correct": 0
     },
     {
       "question": "The average weight of A, B and C is 45 kg. If the average weight of A and B be 40 kg and that of B and C be 43 kg, then the weight of B is:",
@@ -100,7 +100,7 @@
         "26 kg",
         "31 kg"
       ],
-      "correct": "3"
+      "correct": 3
     },
     {
       "question": "The average weight of 16 boys in a class is 50.25 kg and that of the remaining 8 boys is 45.15 kg. Find the average weights of all the boys in the class.",
@@ -110,7 +110,7 @@
         "48.55 kg",
         "49.25 kg"
       ],
-      "correct": "2"
+      "correct": 2
     },
     {
       "question": "A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is:",
@@ -120,7 +120,7 @@
         "280",
         "285"
       ],
-      "correct": "3"
+      "correct": 3
     },
     {
       "question": "If the average marks of three batches of 55, 60 and 45 students respectively is 50, 55, 60, then the average marks of all the students is:",
@@ -130,7 +130,7 @@
         "55",
         "None of above"
       ],
-      "correct": "1"
+      "correct": 1
     },
     {
       "question": "A pupil's marks were wrongly entered as 83 instead of 63. Due to that the average marks for the class got increased by half (1/2). The number of pupils in the class is:",
@@ -140,7 +140,7 @@
         "40",
         "76"
       ],
-      "correct": "2"
+      "correct": 2
     }
   ]
 }
