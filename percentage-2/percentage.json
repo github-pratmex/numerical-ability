@@ -251,7 +251,7 @@
             "correct": "0"
         }, 
         {
-            "question": "TIf the true discount on s sum due 2 years hence at 14% per annum be Rs. 168, the sum due is:",
+            "question": "If the true discount on s sum due 2 years hence at 14% per annum be Rs. 168, the sum due is:",
             "options": [
                 "Rs. 768",
                 "Rs. 968",
@@ -260,8 +260,156 @@
             ],
             "correct": "0"
         }, 
+         {
+            "question": "The banker's discount on a bill due 4 months hence at 15% is Rs. 420. The true discount is::",
+            "options": [
+                "Rs. 400",
+                "Rs. 360",
+                "Rs. 480",
+                "Rs. 320"
+            ],
+            "correct": "0"
+        }, 
+        {
+            "question": "The banker's discount on Rs. 1600 at 15% per annum is the same as true discount on Rs. 1680 for the same time and at the same rate. The time is:",
+            "options": [
+                "3 months",
+                "4 months",
+                "6 months",
+                "8 months"
+            ],
+            "correct": "1"
+        }, 
+         {
+            "question": "The banker's gain of a certain sum due 2 years hence at 10% per annum is Rs. 24. The present worth is:",
+            "options": [
+                "Rs. 480",
+                "Rs. 520",
+                "Rs. 600",
+                "Rs. 960"
+            ],
+            "correct": "2"
+        }, 
+        {
+            "question": "The banker's discount on a sum of money for 1.5 years is Rs. 558 and the true discount on the same sum for 2 years is Rs. 600. The rate percent is:",
+            "options": [
+                "10%",
+                "13%",
+                "12%",
+                "15%"
+            ],
+            "correct": "2"
+        },
+         {
+            "question": "The banker's gain on a sum due 3 years hence at 12% per annum is Rs. 270. The banker's discount is:",
+            "options": [
+                "Rs. 960",
+                "Rs. 840",
+                "Rs. 1020",
+                "Rs. 760"
+            ],
+            "correct": "2"
+        }, 
+        {
+            "question": "TThe banker's discount of a certain sum of money is Rs. 72 and the true discount on the same sum for the same time is Rs. 60. The sum due is:",
+            "options": [
+                "Rs. 360",
+                "Rs. 432",
+                "Rs. 540",
+                "Rs. 1080"
+            ],
+            "correct": "0"
+        }, 
+        {
+            "question": "The certain worth of a certain sum due sometime hence is Rs. 1600 and the true discount is Rs. 160. The banker's gain is:",
+            "options": [
+                "Rs. 20",
+                "Rs. 24",
+                "Rs. 16",
+                "Rs. 12"
+            ],
+            "correct": "2"
+        }, 
+        {
+            "question": "The present worth of a certain bill due sometime hence is Rs. 800 and the true discount is Rs. 36. The banker's discount is:",
+            "options": [
+                "Rs. 37",
+                "Rs.  37.62",
+                "Rs. 34.38",
+                "Rs. 38.98"
+            ],
+            "correct": "1"
+        }, 
+         {
+            "question": "The banker's gain on a bill due 1 year hence at 12% per annum is Rs. 6. The true discount is:",
+            "options": [
+                "Rs. 72",
+                "Rs. 36",
+                "Rs. 54",
+                "Rs. 50"
+            ],
+            "correct": "3"
+        }, 
+        {
+            "question": "The present worth of a sum due sometime hence is Rs. 576 and the banker's gain is Rs. 16. The true discount is:",
+            "options": [
+                "Rs. 36",
+                "Rs. 72",
+                "Rs. 48",
+                "Rs. 96"
+            ],
+            "correct": "3"
+        }, 
+        {
+            "question": "The true discount on a bill of Rs. 540 is Rs. 90. The banker's discount is:",
+            "options": [
+                "Rs. 60",
+                "Rs. 108",
+                "Rs. 110",
+                "Rs. 112"
+            ],
+            "correct": "1"
+        }, 
+        {
+            "question": "The banker's discount on a certain sum due 2 years hence is	11/10	of the True discount The rate percent is.:",
+            "options": [
+                "11%",
+                "10%",
+                "5%",
+                "5.5%"
+            ],
+            "correct": "2"
+        }, 
+        {
+            "question": "A number is increased by 20% and then decreased by 20%. What is the net percentage change in the number?:",
+            "options": [
+                "0%",
+                "4% increase",
+                "4% decrease",
+                "20% decrease"
+            ],
+            "correct": "2"
+        }, 
+        {
+            "question": "If 25% of a number is 60, what is the number?:",
+            "options": [
+                "150",
+                "180",
+                "240",
+                "300"
+            ],
+            "correct": "2"
+        }, 
+        {
+            "question": "If a student scores 72 out of 80 in a test, what is the percentage score?:",
+            "options": [
+                "85%",
+                "88%",
+                "90%",
+                "92%"
+            ],
+            "correct": "2"
+        }
         
-          
-
   ]
 }
