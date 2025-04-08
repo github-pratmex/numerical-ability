@@ -1,1 +1,485 @@
-
+{
+  "questions": [
+    {
+      "question": "The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is:",
+      "options": [
+        "15360",
+        "153600",
+        "30720",
+        "307200"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "An error 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is:",
+      "options": [
+        "2%",
+        "2.02%",
+        "4%",
+        "4.04%"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "The ratio between the perimeter and the breadth of a rectangle is 5 : 1. If the area of the rectangle is 216 sq. cm, what is the length of the rectangle?",
+      "options": [
+        "16 cm",
+        "18 cm",
+        "24 cm",
+        "Data inadequate",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The percentage increase in the area of a rectangle, if each of its sides is increased by 20% is:",
+      "options": [
+        "40%",
+        "42%",
+        "44%",
+        "46%"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A rectangular park 60 m long and 40 m wide has two concrete crossroads running in the middle of the park and rest of the park has been used as a lawn. If the area of the lawn is 2109 sq. m, then what is the width of the road?",
+      "options": [
+        "2.91 m",
+        "3 m",
+        "5.82 m",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The diagonal of the floor of a rectangular closet is 7.5 feet. The shorter side of the closet is 4.5 feet. What is the area of the closet in square feet?",
+      "options": [
+        "5.25",
+        "13.5",
+        "27",
+        "37"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A towel, when bleached, was found to have lost 20% of its length and 10% of its breadth. The percentage of decrease in area is:",
+      "options": [
+        "10%",
+        "10.08%",
+        "20%",
+        "28%"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?",
+      "options": [
+        "20",
+        "24",
+        "30",
+        "33"
+      ],
+      "correct": 2
+    },
+    {
+      "question": " The diagonal of a rectangle is sqrt(41) cm and its area is 20 sq. cm. The perimeter of the rectangle must be: ",
+      "options": [
+        "9 cm",
+        "18 cm",
+        "20 cm",
+        "41 cm"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the least number of squares tiles required to pave the floor of a room 15 m 17 cm long and 9 m 2 cm broad?",
+      "options": [
+        "814",
+        "820",
+        "840",
+        "844"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+    {
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": 
+    },
+  ]
+}
