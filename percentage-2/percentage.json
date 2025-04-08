@@ -8,7 +8,7 @@
                 "672 apples",
                 "700 apples"
             ],
-            "correct": "3"
+            "correct": 3
         },
         {
             "question": "If A = x% of y and B = y% of x, then which of the following is true?",
@@ -18,7 +18,7 @@
                 "Relationship between A and B cannot be determined.",
                 "None of these"
             ],
-            "correct": "3"
+            "correct": 3
         },
         {
             "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
@@ -28,7 +28,7 @@
                 "42, 33",
                 "43, 34"
             ],
-            "correct": "2"
+            "correct": 2
         },
         {
             "question": "If 20% of a = b, then b% of 20 is the same as:",
@@ -38,7 +38,7 @@
                 "20% of a",
                 "None of these"
             ],
-            "correct": "0"
+            "correct": 0
         },
         {
             "question": "In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is 2/3 of the number of students of 8 years of age which is 48. What is the total number of students in the school?",
@@ -48,7 +48,7 @@
                 "120",
                 "100"
             ],
-            "correct": "3"
+            "correct": 3
         },
         {
             "question": "Two numbers A and B are such that the sum of 5% of A and 4% of B is two-third of the sum of 6% of A and 8% of B. Find the ratio of A : B.",
@@ -58,7 +58,7 @@
                 "3 : 4",
                 "4 : 3"
             ],
-            "correct": "3"
+            "correct": 3
         },
          {
             "question": "A student multiplied a number by	3/5	instead of	5/3  What is the percentage error in the calculation?	.",
@@ -68,7 +68,7 @@
                 "54%",
                 "64%"
             ],
-            "correct": "3"
+            "correct": 3
         },
         {
             "question": "In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was:",
@@ -78,7 +78,7 @@
                 "3000",
                 "3100"
             ],
-            "correct": "0"
+            "correct": 0
         },
         {
             "question": "Three candidates contested an election and received 1136, 7636 and 11628 votes respectively. What percentage of the total votes did the winning candidate get?",
@@ -88,7 +88,7 @@
                 "65%",
                 "90%"
             ],
-            "correct": "0"
+            "correct": 0
         },
         {
             "question": "Two tailors X and Y are paid a total of Rs. 550 per week by their employer. If X is paid 120 percent of the sum paid to Y, how much is Y paid per week?",
@@ -98,7 +98,7 @@
                 "Rs. 300",
                 "None of these"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "Gauri went to the stationers and bought things worth Rs. 25, out of which 30 paise went on sales tax on taxable purchases. If the tax rate was 6%, then what was the cost of the tax free items?",
@@ -108,7 +108,7 @@
                 "Rs. 19.70",
                 "Rs. 20"
             ],
-            "correct": "2"
+            "correct": 2
         },
         {
             "question": "Rajeev buys good worth Rs. 6650. He gets a rebate of 6% on it. After getting the rebate, he pays sales tax @ 10%. Find the amount he will have to pay for the goods.",
@@ -118,7 +118,7 @@
                 "Rs. 6654",
                 "Rs. 7000"
             ],
-            "correct": "0"
+            "correct": 0
         },
         {
             "question": "The population of a town increased from 1,75,000 to 2,62,500 in a decade. The average percent increase of population per year is:",
@@ -128,7 +128,7 @@
                 "6%",
                 "8.75%"
             ],
-            "correct": "0"
+            "correct": 0
         },
          {
             "question": "The true discount on Rs. 2562 due 4 months hence is Rs. 122. The rate percent is:",
@@ -138,7 +138,7 @@
                 "15%",
                 "14%"
             ],
-            "correct": "2"
+            "correct": 2
         },
          {
             "question": "A trader owes a merchant Rs. 10,028 due 1 year hence. The trader wants to settle the account after 3 months. If the rate of interest 12% per annum, how much cash should he pay?.",
@@ -148,7 +148,7 @@
                 "Rs. 9600",
                 "Rs. 9560"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "A man wants to sell his scooter. There are two offers, one at Rs. 12,000 cash and the other a credit of Rs. 12,880 to be paid after 8 months, money being at 18% per annum. Which is the better offer",
@@ -158,7 +158,7 @@
                 "Rs. Both are equally good",
                 "Rs. None of these"
             ],
-            "correct": "0"
+            "correct": 0
         },
         {
             "question": "Goods were bought for Rs. 600 and sold the same for Rs. 688.50 at a credit of 9 months and thus gaining 2% The rate of interest per annum is:.",
@@ -168,7 +168,7 @@
                 "13*1/2 %",
                 "15 %"
             ],
-            "correct": "0"
+            "correct": 0
         },
         {
             "question": "The true discount on a bill due 9 months hence at 16% per annum is Rs. 189. The amount of the bill is:.",
@@ -178,7 +178,7 @@
                 "Rs. 1575",
                 "Rs. 2268"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "A man buys a watch for Rs. 1950 in cash and sells it for Rs. 2200 at a credit of 1 year. If the rate of interest is 10% per annum, the man:.",
@@ -188,7 +188,7 @@
                 "loses Rs. 30",
                 "gains Rs. 30"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "The true discount on Rs. 1760 due after a certain time at 12% per annum is Rs. 160. The time after which it is due is:.",
@@ -198,7 +198,7 @@
                 "9 months",
                 "10 months"
             ],
-            "correct": "3"
+            "correct": 3
         },
          {
             "question": "The present worth of Rs. 2310 due 2*1/2 years hence, the rate of interest being 15% per annum, is:.",
@@ -208,7 +208,7 @@
                 "Rs. 1840",
                 "Rs. 1443.75"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "Rs. 20 is the true discount on Rs. 260 due after a certain time. What will be the true discount on the same sum due after half of the former time, the rate of interest being the same?.",
@@ -218,7 +218,7 @@
                 "Rs. 15.20",
                 "Rs. 13"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "The interest on Rs. 750 for 2 years is the same as the true discount on Rs. 960 due 2 years hence. If the rate of interest is the same in both cases, it is:",
@@ -228,7 +228,7 @@
                 "15%",
                 "16*2/3%"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "The simple interest and the true discount on a certain sum for a given time and at a given rate are Rs. 85 and Rs. 80 respectively. The sum is:",
@@ -238,7 +238,7 @@
                 "Rs. 1360",
                 "Rs. 6800"
             ],
-            "correct": "2"
+            "correct": 2
         },
          {
             "question": "The present worth of Rs. 1404 due in two equal half-yearly installments at 8% per annum simple interest is:",
@@ -248,7 +248,7 @@
                 "Rs. 1350",
                 "Rs. 1500"
             ],
-            "correct": "0"
+            "correct": 0
         }, 
         {
             "question": "If the true discount on s sum due 2 years hence at 14% per annum be Rs. 168, the sum due is:",
@@ -258,7 +258,7 @@
                 "Rs. 1960",
                 "Rs. 2400"
             ],
-            "correct": "0"
+            "correct": 0
         }, 
          {
             "question": "The banker's discount on a bill due 4 months hence at 15% is Rs. 420. The true discount is::",
@@ -268,7 +268,7 @@
                 "Rs. 480",
                 "Rs. 320"
             ],
-            "correct": "0"
+            "correct": 0
         }, 
         {
             "question": "The banker's discount on Rs. 1600 at 15% per annum is the same as true discount on Rs. 1680 for the same time and at the same rate. The time is:",
@@ -278,7 +278,7 @@
                 "6 months",
                 "8 months"
             ],
-            "correct": "1"
+            "correct": 1
         }, 
          {
             "question": "The banker's gain of a certain sum due 2 years hence at 10% per annum is Rs. 24. The present worth is:",
@@ -288,7 +288,7 @@
                 "Rs. 600",
                 "Rs. 960"
             ],
-            "correct": "2"
+            "correct": 2
         }, 
         {
             "question": "The banker's discount on a sum of money for 1.5 years is Rs. 558 and the true discount on the same sum for 2 years is Rs. 600. The rate percent is:",
@@ -298,7 +298,7 @@
                 "12%",
                 "15%"
             ],
-            "correct": "2"
+            "correct": 2
         },
          {
             "question": "The banker's gain on a sum due 3 years hence at 12% per annum is Rs. 270. The banker's discount is:",
@@ -308,7 +308,7 @@
                 "Rs. 1020",
                 "Rs. 760"
             ],
-            "correct": "2"
+            "correct": 2
         }, 
         {
             "question": "TThe banker's discount of a certain sum of money is Rs. 72 and the true discount on the same sum for the same time is Rs. 60. The sum due is:",
@@ -318,7 +318,7 @@
                 "Rs. 540",
                 "Rs. 1080"
             ],
-            "correct": "0"
+            "correct": 0
         }, 
         {
             "question": "The certain worth of a certain sum due sometime hence is Rs. 1600 and the true discount is Rs. 160. The banker's gain is:",
@@ -328,7 +328,7 @@
                 "Rs. 16",
                 "Rs. 12"
             ],
-            "correct": "2"
+            "correct": 2
         }, 
         {
             "question": "The present worth of a certain bill due sometime hence is Rs. 800 and the true discount is Rs. 36. The banker's discount is:",
@@ -338,7 +338,7 @@
                 "Rs. 34.38",
                 "Rs. 38.98"
             ],
-            "correct": "1"
+            "correct": 1
         }, 
          {
             "question": "The banker's gain on a bill due 1 year hence at 12% per annum is Rs. 6. The true discount is:",
@@ -348,7 +348,7 @@
                 "Rs. 54",
                 "Rs. 50"
             ],
-            "correct": "3"
+            "correct": 3
         }, 
         {
             "question": "The present worth of a sum due sometime hence is Rs. 576 and the banker's gain is Rs. 16. The true discount is:",
@@ -358,7 +358,7 @@
                 "Rs. 48",
                 "Rs. 96"
             ],
-            "correct": "3"
+            "correct": 3
         }, 
         {
             "question": "The true discount on a bill of Rs. 540 is Rs. 90. The banker's discount is:",
@@ -368,7 +368,7 @@
                 "Rs. 110",
                 "Rs. 112"
             ],
-            "correct": "1"
+            "correct": 1
         }, 
         {
             "question": "The banker's discount on a certain sum due 2 years hence is	11/10	of the True discount The rate percent is.:",
@@ -378,7 +378,7 @@
                 "5%",
                 "5.5%"
             ],
-            "correct": "2"
+            "correct": 2
         }, 
         {
             "question": "A number is increased by 20% and then decreased by 20%. What is the net percentage change in the number?:",
@@ -388,7 +388,7 @@
                 "4% decrease",
                 "20% decrease"
             ],
-            "correct": "2"
+            "correct": 2
         }, 
         {
             "question": "If 25% of a number is 60, what is the number?:",
@@ -398,7 +398,7 @@
                 "240",
                 "300"
             ],
-            "correct": "2"
+            "correct": 2
         }, 
         {
             "question": "If a student scores 72 out of 80 in a test, what is the percentage score?:",
@@ -408,7 +408,7 @@
                 "90%",
                 "92%"
             ],
-            "correct": "2"
+            "correct": 2
         }
         
   ]
