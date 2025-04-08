@@ -9,7 +9,7 @@
         "8/15",
         "9/20"
       ],
-      "correct": "3"
+      "correct": 3
     },
     {
       "question": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?",
@@ -19,7 +19,7 @@
         "2/7",
         "5/7"
       ],
-      "correct": "0"
+      "correct": 0
     },
     {
       "question": "In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",
@@ -29,7 +29,7 @@
         "7/19",
         "8/21"
       ],
-      "correct": "0"
+      "correct": 0
     },
     {
       "question": "What is the probability of getting a sum 9 from two throws of a dice?",
@@ -39,7 +39,7 @@
         "1/9",
         "1/12"
       ],
-      "correct": "2"
+      "correct": 2
     },
     {
       "question": "Three unbiased coins are tossed. What is the probability of getting at most two heads?",
@@ -49,7 +49,7 @@
         "3/8",
         "7/8"
       ],
-      "correct": "3"
+      "correct": 3
     },
     {
       "question": "Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?",
@@ -59,7 +59,7 @@
         "3/8",
         "5/16"
       ],
-      "correct": "1"
+      "correct": 1
     },
     {
       "question": "In a class, there are 15 boys and 10 girls. Three students are selected at random. The probability that 1 girl and 2 boys are selected, is:",
@@ -69,7 +69,7 @@
         "1/50",
         "3/25"
       ],
-      "correct": "0"
+      "correct": 0
     },
     {
       "question": "In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is the probability of getting a prize?",
@@ -79,7 +79,7 @@
         "2/7",
         "5/7"
       ],
-      "correct": "2"
+      "correct": 2
     },
     {
       "question": "From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being kings?",
@@ -89,7 +89,7 @@
         "35/256",
         "1/221"
       ],
-      "correct": "3"
+      "correct": 3
     },
     {
       "question": "Two dice are tossed. The probability that the total score is a prime number is:",
@@ -99,7 +99,7 @@
         "1/2",
         "7/9"
       ],
-      "correct": "1"
+      "correct": 1
     },
     {
       "question": "A card is drawn from a pack of 52 cards. The probability of getting a queen of club or a king of heart is:",
@@ -109,7 +109,7 @@
         "1/26",
         "1/52"
       ],
-      "correct": "2"
+      "correct": 2
     },
     {
       "question": "A bag contains 4 white, 5 red and 6 blue balls. Three balls are drawn at random from the bag. The probability that all of them are red, is:",
@@ -119,7 +119,7 @@
         "2/91",
         "2/77"
       ],
-      "correct": "2"
+      "correct": 2
     },
     {
       "question": "Two cards are drawn together from a pack of 52 cards. The probability that one is a spade and one is a heart, is:",
@@ -129,7 +129,7 @@
         "47/100",
         "13/102"
       ],
-      "correct": "3"
+      "correct": 3
     },
     {
       "question": "One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)?",
@@ -139,7 +139,7 @@
         "1/4",
         "9/52"
       ],
-      "correct": "1"
+      "correct": 1
     },
     {
       "question": "A bag contains 6 black and 8 white balls. One ball is drawn at random. What is the probability that the ball drawn is white?",
@@ -149,7 +149,7 @@
         "1/8",
         "3/7"
       ],
-      "correct": "1"
+      "correct": 1
     }
   ]
 }
