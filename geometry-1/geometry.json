@@ -102,384 +102,266 @@
       "correct": 0
     },
     {
-      "question": "",
+      "question": "The difference between the length and breadth of a rectangle is 23 m. If its perimeter is 206 m, then its area is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "1520 m^2",
+        "2420 m^2",
+        "2480 m^2",
+        "2520 m^2"
       ],
-      "correct": 
+      "correct": 3
     },
     {
-      "question": "",
+      "question": "The length of a rectangle is halved, while its breadth is tripled. What is the percentage change in area?",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "25% increase",
+        "50% increase",
+        "50% decrease",
+        "75% decrease"
       ],
-      "correct": 
+      "correct": 1 
     },
     {
-      "question": "",
+      "question": "The length of a rectangular plot is 20 metres more than its breadth. If the cost of fencing the plot @ 26.50 per metre is Rs. 5300, what is the length of the plot in metres?",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "40",
+        "50",
+        "120",
+        "Data inadequate",
+        "None of these"
       ],
-      "correct": 
+      "correct": 4
     },
     {
-      "question": "",
+      "question": "A rectangular field is to be fenced on three sides leaving a side of 20 feet uncovered. If the area of the field is 680 sq. feet, how many feet of fencing will be required?",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "34",
+        "40",
+        "68",
+        "88"
       ],
-      "correct": 
+      "correct": 3
     },
     {
-      "question": "",
+      "question": "A tank is 25 m long, 12 m wide and 6 m deep. The cost of plastering its walls and bottom at 75 paise per sq. m, is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Rs. 456",
+        "Rs. 458",
+        "Rs. 558",
+        "Rs. 568"
       ],
-      "correct": 
+      "correct": 2
     },
     {
-      "question": "",
+      "question": "A right triangle with sides 3 cm, 4 cm and 5 cm is rotated the side of 3 cm to form a cone. The volume of the cone so formed is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "12(22/7) cm^3",
+        "15(22/7) cm^3"",
+        "16(22/7) cm^3"",
+        "20(22/7) cm^3""
       ],
-      "correct": 
+      "correct": 0
     },
     {
-      "question": "",
+      "question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "75 cu. m",
+        "750 cu. m",
+        "7500 cu. m",
+        "75000 cu. m"
       ],
-      "correct": 
+      "correct": 1
     },
     {
-      "question": "",
+      "question": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "720",
+        "900",
+        "1200",
+        "1800"
       ],
-      "correct": 
+      "correct": 2
     },
     {
-      "question": "",
+      "question": "66 cubic centimetres of silver is drawn into a wire 1 mm in diameter. The length of the wire in metres will be:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "84",
+        "90",
+        "168",
+        "336"
       ],
-      "correct": 
+      "correct": 0
     },
     {
-      "question": "",
+      "question": "A hollow iron pipe is 21 cm long and its external diameter is 8 cm. If the thickness of the pipe is 1 cm and iron weighs 8 g/cm^3, then the weight of the pipe is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "3.6 kg",
+        "3.696 kg",
+        "36 kg",
+        "36.9 kg"
       ],
-      "correct": 
+      "correct": 1
     },
     {
-      "question": "",
+      "question": "A boat having a length 3 m and breadth 2 m is floating on a lake. The boat sinks by 1 cm when a man gets on it. The mass of the man is: ",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "12 kg",
+        "60 kg",
+        "72 kg",
+        "96 kg"
       ],
-      "correct": 
+      "correct": 1
     },
     {
-      "question": "",
+      "question": "50 men took a dip in a water tank 40 m long and 20 m broad on a religious day. If the average displacement of water by a man is 4 m^3, then the rise in the water level in the tank will be: ",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "20 cm",
+        "25 cm",
+        "35 cm",
+        "50 cm"
       ],
-      "correct": 
+      "correct": 1
     },
     {
-      "question": "",
+      "question": "The slant height of a right circular cone is 10 m and its height is 8 m. Find the area of its curved surface. ",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "30(22/7) m^2",
+        "40(22/7) m^2",
+        "60(22/7) m^2",
+        "80(22/7) m^2"
       ],
-      "correct": 
+      "correct": 2
     },
     {
-      "question": "",
+      "question": "A cistern 6m long and 4 m wide contains water up to a depth of 1 m 25 cm. The total area of the wet surface is: ",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "49 m^2",
+        "50 m^2",
+        "53.5 m^2",
+        "55 m^2"
       ],
-      "correct": 
+      "correct": 0
     },
     {
-      "question": "",
+      "question": "A metallic sheet is of rectangular shape with dimensions 48 m x 36 m. From each of its corners, a square is cut off so as to make an open box. If the length of the square is 8 m, the volume of the box (in m^3) is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "4830",
+        "5120",
+        "6420",
+        "8960"
       ],
-      "correct": 
+      "correct": 1
     },
     {
-      "question": "",
+      "question": "The curved surface area of a cylindrical pillar is 264 m^2 and its volume is 924 m^3. Find the ratio of its diameter to its height.",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "3 : 7",
+        "7 : 3",
+        "6 : 7",
+        "7 : 6"
       ],
-      "correct": 
+      "correct": 1
     },
     {
-      "question": "",
+      "question": "A cistern of capacity 8000 litres measures externally 3.3 m by 2.6 m by 1.1 m and its walls are 5 cm thick. The thickness of the bottom is: ",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "90 cm",
+        "1 dm",
+        "1 m",
+        "1.1 cm"
       ],
-      "correct": 
+      "correct": 1
     },
     {
-      "question": "",
+      "question": "What is the total surface area of a right circular cone of height 14 cm and base radius 7 cm?",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "344.35 cm^2",
+        "462 cm^2",
+        "498.35 cm^2",
+        "None of these"
       ],
-      "correct": 
+      "correct": 2
     },
     {
-      "question": "",
+      "question": "A large cube is formed from the material obtained by melting three smaller cubes of 3, 4 and 5 cm side. What is the ratio of the total surface areas of the smaller cubes and the large cube?",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "2 : 1",
+        "3 : 2",
+        "25 : 18",
+        "27 : 20"
       ],
-      "correct": 
+      "correct": 2
     },
     {
-      "question": "",
+      "question": "How many bricks, each measuring 25 cm x 11.25 cm x 6 cm, will be needed to build a wall of 8 m x 6 m x 22.5 cm?",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "5600",
+        "6000",
+        "6400",
+        "7200"
       ],
-      "correct": 
+      "correct": 2
     },
     {
-      "question": "",
+      "question": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "173 m",
+        "200 m",
+        "273 m",
+        "300 m"
       ],
-      "correct": 
+      "correct": 2
     },
     {
-      "question": "",
+      "question": "A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30° with the man's eye. The man walks some distance towards the tower to watch its top and the angle of the elevation becomes 60°. What is the distance between the base of the tower and the point P?",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "4 x sqrt(3) units",
+        "8 units",
+        "12 units",
+        "Data inadequate",
+        "None of these"
       ],
-      "correct": 
+      "correct": 3
     },
     {
-      "question": "",
+      "question": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "2.3 m",
+        "4.6 m",
+        "7.8 m",
+        "9.2 m"
       ],
-      "correct": 
+      "correct": 3
     },
     {
-      "question": "",
+      "question": "An observer 1.6 m tall is 20 x sqrt(3) away from a tower. The angle of elevation from his eye to the top of the tower is 30°. The height of the tower is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "21.6 m",
+        "23.2 m",
+        "24.72 m",
+        "None of these"
       ],
-      "correct": 
+      "correct": 0
     },
     {
-      "question": "",
+      "question": "From a point P on a level ground, the angle of elevation of the top tower is 30°. If the tower is 100 m high, the distance of point P from the foot of the tower is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "149 m",
+        "156 m",
+        "173 m",
+        "200 m"
       ],
-      "correct": 
+      "correct": 2
     },
     {
-      "question": "",
+      "question": "The angle of elevation of the sun, when the length of the shadow of a tree sqrt(3) times the height of the tree, is:",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "30°",
+        "45°",
+        "60°",
+        "90°"
       ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
-    {
-      "question": "",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "correct": 
-    },
+      "correct": 0
+    }
   ]
 }
