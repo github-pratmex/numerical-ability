@@ -8,7 +8,7 @@
                 "10%",
                 "12%"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
@@ -18,7 +18,7 @@
                 "18%",
                 "25%"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "If selling price is doubled, the profit triples. Find the profit percent.",
@@ -28,7 +28,7 @@
                 "115%",
                 "120%"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
@@ -38,7 +38,7 @@
                 "100%",
                 "250%"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
@@ -48,7 +48,7 @@
                 "5",
                 "6"
             ],
-            "correct": "2"
+            "correct": 2
         },
         {
             "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
@@ -58,7 +58,7 @@
                 "Rs. 2400",
                 "Data inadequate"
             ],
-            "correct": "0"
+            "correct": 0
         },
         {
             "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
@@ -68,7 +68,7 @@
                 "Rs. 72",
                 "Rs. 88.25"
             ],
-            "correct": "2"
+            "correct": 2
         },
         {
             "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
@@ -78,7 +78,7 @@
                 "Rs. 1190  ",
                 "Rs. 1202"
             ],
-            "correct": "2"
+            "correct": 2
         },
         {
             "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
@@ -88,7 +88,7 @@
                 "5.6",
                 "6.5"
             ],
-            "correct": "2"
+            "correct": 2
         },
         {
             "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
@@ -98,7 +98,7 @@
                 "35%",
                 "44%"
             ],
-            "correct": "3"
+            "correct": 3
         },
         {
             "question": "On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is:",
@@ -108,7 +108,7 @@
                 "Rs. 55  ",
                 "Rs. 60"
             ],
-            "correct": "3"
+            "correct": 3
         },
         {
             "question": "When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?",
@@ -118,7 +118,7 @@
                 "Rs. 25,300  ",
                 "Rs. 25,800"
             ],
-            "correct": "2"
+            "correct": 2
         },
         {
             "question": "100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen. The percentage of profit or loss is:",
@@ -128,7 +128,7 @@
                 "14.28% loss",
                 "15% loss"
             ],
-            "correct": "0"
+            "correct": 0
         },
         {
             "question": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
@@ -138,7 +138,7 @@
                 "8%",
                 "9%"
             ],
-            "correct": "1"
+            "correct": 1
         },
         {
             "question": "A shopkeeper buys an article for ₹400 and sells it for ₹500. What is the profit percentage?",
@@ -148,7 +148,7 @@
                 "30%",
                 "40%"
             ],
-            "correct": "1"
+            "correct": 1
         }
   ]
 }
