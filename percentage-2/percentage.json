@@ -1,1 +1,267 @@
+{
+  "questions": [
+        {
+            "question": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had :",
+            "options": [
+                "588 apples",
+                "600 apples",
+                "672 apples",
+                "700 apples"
+            ],
+            "correct": "3"
+        },
+        {
+            "question": "If A = x% of y and B = y% of x, then which of the following is true?",
+            "options": [
+                "A is smaller than B.",
+                "A is greater than B",
+                "Relationship between A and B cannot be determined.",
+                "None of these"
+            ],
+            "correct": "3"
+        },
+        {
+            "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+            "options": [
+                "39, 30",
+                "41, 32",
+                "42, 33",
+                "43, 34"
+            ],
+            "correct": "2"
+        },
+        {
+            "question": "If 20% of a = b, then b% of 20 is the same as:",
+            "options": [
+                "4% of a",
+                "5% of a",
+                "20% of a",
+                "None of these"
+            ],
+            "correct": "0"
+        },
+        {
+            "question": "In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is 2/3 of the number of students of 8 years of age which is 48. What is the total number of students in the school?",
+            "options": [
+                "72",
+                "80",
+                "120",
+                "100"
+            ],
+            "correct": "3"
+        },
+        {
+            "question": "Two numbers A and B are such that the sum of 5% of A and 4% of B is two-third of the sum of 6% of A and 8% of B. Find the ratio of A : B.",
+            "options": [
+                "2 : 3",
+                "1 : 1",
+                "3 : 4",
+                "4 : 3"
+            ],
+            "correct": "3"
+        },
+         {
+            "question": "A student multiplied a number by	3/5	instead of	5/3  What is the percentage error in the calculation?	.",
+            "options": [
+                "34%",
+                "44%",
+                "54%",
+                "64%"
+            ],
+            "correct": "3"
+        },
+        {
+            "question": "In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was:",
+            "options": [
+                "2700",
+                "2900",
+                "3000",
+                "3100"
+            ],
+            "correct": "0"
+        },
+        {
+            "question": "Three candidates contested an election and received 1136, 7636 and 11628 votes respectively. What percentage of the total votes did the winning candidate get?",
+            "options": [
+                "57%",
+                "60%",
+                "65%",
+                "90%"
+            ],
+            "correct": "0"
+        },
+        {
+            "question": "Two tailors X and Y are paid a total of Rs. 550 per week by their employer. If X is paid 120 percent of the sum paid to Y, how much is Y paid per week?",
+            "options": [
+                "Rs. 200",
+                "Rs. 250",
+                "Rs. 300",
+                "None of these"
+            ],
+            "correct": "1"
+        },
+        {
+            "question": "Gauri went to the stationers and bought things worth Rs. 25, out of which 30 paise went on sales tax on taxable purchases. If the tax rate was 6%, then what was the cost of the tax free items?",
+            "options": [
+                "Rs. 15",
+                "Rs. 15.70",
+                "Rs. 19.70",
+                "Rs. 20"
+            ],
+            "correct": "2"
+        },
+        {
+            "question": "Rajeev buys good worth Rs. 6650. He gets a rebate of 6% on it. After getting the rebate, he pays sales tax @ 10%. Find the amount he will have to pay for the goods.",
+            "options": [
+                "Rs. 6876.10",
+                "Rs. 6999.20",
+                "Rs. 6654",
+                "Rs. 7000"
+            ],
+            "correct": "0"
+        },
+        {
+            "question": "The population of a town increased from 1,75,000 to 2,62,500 in a decade. The average percent increase of population per year is:",
+            "options": [
+                "4.37%",
+                "5%",
+                "6%",
+                "8.75%"
+            ],
+            "correct": "0"
+        },
+         {
+            "question": "The true discount on Rs. 2562 due 4 months hence is Rs. 122. The rate percent is:",
+            "options": [
+                "12%",
+                "13%",
+                "15%",
+                "14%"
+            ],
+            "correct": "2"
+        },
+         {
+            "question": "A trader owes a merchant Rs. 10,028 due 1 year hence. The trader wants to settle the account after 3 months. If the rate of interest 12% per annum, how much cash should he pay?.",
+            "options": [
+                "Rs. 9025.20",
+                "Rs. 9200",
+                "Rs. 9600",
+                "Rs. 9560"
+            ],
+            "correct": "1"
+        },
+        {
+            "question": "A man wants to sell his scooter. There are two offers, one at Rs. 12,000 cash and the other a credit of Rs. 12,880 to be paid after 8 months, money being at 18% per annum. Which is the better offer",
+            "options": [
+                "Rs. 12,000 in cash",
+                "Rs. 12,880 at credit",
+                "Rs. Both are equally good",
+                "Rs. None of these"
+            ],
+            "correct": "0"
+        },
+        {
+            "question": "Goods were bought for Rs. 600 and sold the same for Rs. 688.50 at a credit of 9 months and thus gaining 2% The rate of interest per annum is:.",
+            "options": [
+                "16*2/3 % ",
+                "11*1/2 %",
+                "13*1/2 %",
+                "15 %"
+            ],
+            "correct": "0"
+        },
+        {
+            "question": "The true discount on a bill due 9 months hence at 16% per annum is Rs. 189. The amount of the bill is:.",
+            "options": [
+                "Rs. 1386",
+                "Rs. 1764",
+                "Rs. 1575",
+                "Rs. 2268"
+            ],
+            "correct": "1"
+        },
+        {
+            "question": "A man buys a watch for Rs. 1950 in cash and sells it for Rs. 2200 at a credit of 1 year. If the rate of interest is 10% per annum, the man:.",
+            "options": [
+                "gains Rs. 55",
+                "gains Rs. 50",
+                "loses Rs. 30",
+                "gains Rs. 30"
+            ],
+            "correct": "1"
+        },
+        {
+            "question": "The true discount on Rs. 1760 due after a certain time at 12% per annum is Rs. 160. The time after which it is due is:.",
+            "options": [
+                "6 months",
+                "8 months",
+                "9 months",
+                "10 months"
+            ],
+            "correct": "3"
+        },
+         {
+            "question": "The present worth of Rs. 2310 due 2*1/2 years hence, the rate of interest being 15% per annum, is:.",
+            "options": [
+                "Rs. 1750",
+                "Rs. 1680",
+                "Rs. 1840",
+                "Rs. 1443.75"
+            ],
+            "correct": "1"
+        },
+        {
+            "question": "Rs. 20 is the true discount on Rs. 260 due after a certain time. What will be the true discount on the same sum due after half of the former time, the rate of interest being the same?.",
+            "options": [
+                "Rs. 10",
+                "Rs. 10.40",
+                "Rs. 15.20",
+                "Rs. 13"
+            ],
+            "correct": "1"
+        },
+        {
+            "question": "The interest on Rs. 750 for 2 years is the same as the true discount on Rs. 960 due 2 years hence. If the rate of interest is the same in both cases, it is:",
+            "options": [
+                "12%",
+                "14%",
+                "15%",
+                "16*2/3%"
+            ],
+            "correct": "1"
+        },
+        {
+            "question": "The simple interest and the true discount on a certain sum for a given time and at a given rate are Rs. 85 and Rs. 80 respectively. The sum is:",
+            "options": [
+                "Rs. 1800",
+                "Rs. 1450",
+                "Rs. 1360",
+                "Rs. 6800"
+            ],
+            "correct": "2"
+        },
+         {
+            "question": "The present worth of Rs. 1404 due in two equal half-yearly installments at 8% per annum simple interest is:",
+            "options": [
+                "Rs. 1325",
+                "Rs. 1300",
+                "Rs. 1350",
+                "Rs. 1500"
+            ],
+            "correct": "0"
+        }, 
+        {
+            "question": "TIf the true discount on s sum due 2 years hence at 14% per annum be Rs. 168, the sum due is:",
+            "options": [
+                "Rs. 768",
+                "Rs. 968",
+                "Rs. 1960",
+                "Rs. 2400"
+            ],
+            "correct": "0"
+        }, 
+        
+          
 
+  ]
+}
