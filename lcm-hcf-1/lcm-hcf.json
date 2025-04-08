@@ -193,7 +193,7 @@
     {
       "question": "Find the highest common factor of 36 and 84.",
       "options": [
-        "4"
+        "4",
         "6",
         "12",
         "18"
@@ -203,7 +203,7 @@
     {
       "question": "The least number, which when divided by 12, 15, 20 and 54 leaves in each case a remainder of 8 is:",
       "options": [
-        "504"
+        "504",
         "536",
         "544",
         "548"
