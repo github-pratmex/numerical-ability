@@ -1,1 +1,413 @@
-
+{
+  "questions": [
+    {
+      "question": "The cube root of .000216 is:",
+      "options": [
+        ".6",
+        ".06",
+        "77",
+        "87"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What should come in place of both x in the equation x/sqrt(128) = sqrt(162)/x",
+      "options": [
+        "12",
+        "14",
+        "144",
+        "196"
+      ],
+      "correct": 0
+    },
+    {
+      "question": " The least perfect square, which is divisible by each of 21, 36 and 66 is: ",
+      "options": [
+        "213444",
+        "214344",
+        "214434",
+        "231444"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "sqrt(1.5625) = ?",
+      "options": [
+        "1.05",
+        "1.25",
+        "1.45",
+        "1.55"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A group of students decided to collect as many paise from each member of group as is the number of members. If the total collection amounts to Rs. 59.29, the number of the member is the group is: ",
+      "options": [
+        "57",
+        "67",
+        "77",
+        "87"
+      ],
+      "correct": 2
+    },
+    {
+      "question": " How many two-digit numbers satisfy this property.: The last digit (unit's digit) of the square of the two-digit number is 8 ? ",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "None of these"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "The square root of 64009 is:",
+      "options": [
+        "253",
+        "347",
+        "363",
+        "803"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If 2994 ÷ 14.5 = 172, then 29.94 ÷ 1.45 = ?",
+      "options": [
+        "0.172",
+        "1.72",
+        "17.2",
+        "172"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which one of the following is not a prime number?",
+      "options": [
+        "31",
+        "61",
+        "71",
+        "91"
+      ],
+      "correct": 3
+    },
+    {
+      "question": " (112 x 5^4) = ? ",
+      "options": [
+        "67000",
+        "70000",
+        "76500",
+        "77200"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "It is being given that (2^32 + 1) is completely divisible by a whole number. Which of the following numbers is completely divisible by this number?",
+      "options": [
+        "(2^16 + 1)",
+        "(2^16 - 1)",
+        "(7 x 2^23)",
+        "(2^96 + 1)"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "What least number must be added to 1056, so that the sum is completely divisible by 23 ?",
+      "options": [
+        "2",
+        "3",
+        "18",
+        "21",
+        "None of these"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "1397 x 1397 = ?",
+      "options": [
+        "1951609",
+        "1981709",
+        "18362619",
+        "2031719",
+        "None of these"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How many of the following numbers are divisible by 132? (264, 396, 462, 792, 968, 2178, 5184, 6336)",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "(935421 x 625) = ? ",
+      "options": [
+        "575648125",
+        "584638125",
+        "584649125",
+        "585628125"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The largest 4 digit number exactly divisible by 88 is:",
+      "options": [
+        "9944",
+        "9768",
+        "9988",
+        "8888",
+        "None of these"
+      ],
+      "correct": 0
+    },
+    {
+      "question": " Which of the following is a prime number ? ",
+      "options": [
+        "33",
+        "81",
+        "93",
+        "97"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "What is the unit digit in {(6374)^1793 x (625)^317 x (341^491)}?",
+      "options": [
+        "0",
+        "2",
+        "3",
+        "5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5358 x 51 = ?",
+      "options": [
+        "273258",
+        "273268",
+        "273348",
+        "273358"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The sum of first five prime numbers is:",
+      "options": [
+        "11",
+        "18",
+        "26",
+        "28"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "The difference of two numbers is 1365. On dividing the larger number by the smaller, we get 6 as quotient and the 15 as remainder. What is the smaller number ?",
+      "options": [
+        "240",
+        "270",
+        "295",
+        "360"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "(12)^3 x 6^4 ÷ 432 = ?",
+      "options": [
+        "5184",
+        "5060",
+        "5148",
+        "5084",
+        "None of these"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72519 x 9999 = ?",
+      "options": [
+        "725117481",
+        "674217481",
+        "685126481",
+        "696217481",
+        "None of these"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If one-third of one-fourth of a number is 15, then three-tenth of that number is:",
+      "options": [
+        "35",
+        "36",
+        "45",
+        "54"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is:",
+      "options": [
+        "9",
+        "11",
+        "13",
+        "15"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "The difference between a two-digit number and the number obtained by interchanging the positions of its digits is 36. What is the difference between the two digits of that number?",
+      "options": [
+        "3",
+        "4",
+        "9",
+        "Can not be determined",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "question": " The difference between a two-digit number and the number obtained by interchanging the digits is 36. What is the difference between the sum and the difference of the digits of the number if the ratio between the digits of the number is 1 : 2 ? ",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A two-digit number is such that the product of the digits is 8. When 18 is added to the number, then the digits are reversed. The number is: ",
+      "options": [
+        "18",
+        "24",
+        "42",
+        "81"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The sum of the digits of a two-digit number is 15 and the difference between the digits is 3. What is the two-digit number? ",
+      "options": [
+        "69",
+        "78",
+        "96",
+        "Can not be determined",
+        "None of these"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "The sum of the squares of three numbers is 138, while the sum of their products taken two at a time is 131. Their sum is:",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "None of these"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A number consists of two digits. If the digits interchange places and the new number is added to the original number, then the resulting number will be divisible by:",
+      "options": [
+        "3",
+        "5",
+        "9",
+        "11"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "In a two-digit, if it is known that its unit's digit exceeds its ten's digit by 2 and that the product of the given number and the sum of its digits is equal to 144, then the number is: ",
+      "options": [
+        "24",
+        "26",
+        "42",
+        "46"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Find a positive number which when increased by 17 is equal to 60 times the reciprocal of the number. ",
+      "options": [
+        "3",
+        "10",
+        "17",
+        "20"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is: ",
+      "options": [
+        "380",
+        "395",
+        "400",
+        "425"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The product of two numbers is 120 and the sum of their squares is 289. The sum of the number is: ",
+      "options": [
+        "20",
+        "23",
+        "169",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "question": " A number consists of 3 digits whose sum is 10. The middle digit is equal to the sum of the other two and the number will be increased by 99 if its digits are reversed. The number is: ",
+      "options": [
+        "145",
+        "253",
+        "370",
+        "352"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The sum of two number is 25 and their difference is 13. Find their product. ",
+      "options": [
+        "104",
+        "114",
+        "315",
+        "325"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the sum of two consecutive even numbers, the difference of whose squares is 84? ",
+      "options": [
+        "34",
+        "38",
+        "42",
+        "46"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "{(476 + 424)^2 - 4 x 476 x 424} = ?",
+      "options": [
+        "2906",
+        "3116",
+        "2704",
+        "2904",
+        "None of these"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which one of the following can't be the square of natural number ? ",
+      "options": [
+        "30976",
+        "75625",
+        "28561",
+        "143642",
+        "None of these"
+      ],
+      "correct": 3
+    }
+  ]
+}
