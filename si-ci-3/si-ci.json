@@ -1,55 +1,294 @@
 {
-    "questions": [
-        {
-            "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
-            "options": [
-                "Rs. 650",
-                "Rs. 690",
-                "Rs. 698",
-                "Rs. 700"
-            ],
-            "correct": "2"
-        },
-        {
-            "question": "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
-            "options": [
-                "Rs. 6400",
-                "Rs. 6500",
-                "Rs. 7200",
-                "Rs. 7500"
-            ],
-            "correct": "0"
-        },
-        {
-            "question": "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
-            "options": [
-                "Rs. 4462.50",
-                "Rs. 8032.50",
-                "Rs. 8900",
-                "Rs. 8925"
-            ],
-            "correct": "3"
-        },
-        {
-            "question": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
-            "options": [
-                "3.5 years",
-                "4 years",
-                "4.5 years",
-                "5 years"
-            ],
-            "correct": "1"
-        },
-        {
-            "question": "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
-            "options": [
-                "3.6",
-                "6",
-                "18",
-                "None of above"
-            ],
-            "correct": "3"
-        }
-        
-    ]
+  "questions": [
+    {
+      "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+      "options": [
+        "Rs. 650",
+        "Rs. 690",
+        "Rs. 698",
+        "Rs. 700"
+      ],
+      "correct": "2"
+    },
+    {
+      "question": "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
+      "options": [
+        "Rs. 6400",
+        "Rs. 6500",
+        "Rs. 7200",
+        "Rs. 7500"
+      ],
+      "correct": "0"
+    },
+    {
+      "question": "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+      "options": [
+        "Rs. 4462.50",
+        "Rs. 8032.50",
+        "Rs. 8900",
+        "Rs. 8925"
+      ],
+      "correct": "3"
+    },
+    {
+      "question": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+      "options": [
+        "3.5 years",
+        "4 years",
+        "4.5 years",
+        "5 years"
+      ],
+      "correct": "1"
+    },
+    {
+      "question": "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+      "options": [
+        "3.6",
+        "6",
+        "18",
+        "None of above"
+      ],
+      "correct": "3"
+    },
+    {
+      "question": "A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
+      "options": [
+        "3%",
+        "4%",
+        "5%",
+        "6%"
+      ],
+      "correct": "3"
+    },
+    {
+      "question": "An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes:",
+      "options": [
+        "10%",
+        "10.25%",
+        "10.5%",
+        "None of above"
+      ],
+      "correct": "1"
+    },
+    {
+      "question": "A lent Rs. 5000 to B for 2 years and Rs. 3000 to C for 4 years on simple interest at the same rate of interest and received Rs. 2200 in all from both of them as interest. The rate of interest per annum is:",
+      "options": [
+        "5%",
+        "7%",
+        "7.125%",
+        "10.5%"
+      ],
+      "correct": "3"
+    },
+    {
+      "question": "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
+      "options": [
+        "3.6%",
+        "4.5%",
+        "5%",
+        "None of above"
+      ],
+      "correct": "3"
+    },
+    {
+      "question": "A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:",
+      "options": [
+        "2000",
+        "10000",
+        "15000",
+        "200000"
+      ],
+      "correct": "2"
+    },
+    {
+      "question": "A sum of money amounts to Rs. 9800 after 5 years and Rs. 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is:",
+      "options": [
+        "5%",
+        "8%",
+        "12%",
+        "15%"
+      ],
+      "correct": "2"
+    },
+    {
+      "question": "What will be the ratio of simple interest earned by certain amount at the same rate of interest for 6 years and that for 9 years?",
+      "options": [
+        "1:3",
+        "1:4",
+        "2:3",
+        "None of Above"
+      ],
+      "correct": "2"
+    },
+    {
+      "question": "A certain amount earns simple interest of Rs. 1750 after 7 years. Had the interest been 2% more, how much more interest would it have earned?",
+      "options": [
+        "Rs.35",
+        "Rs.245",
+        "Rs.350",
+        "Cannot Determined"
+      ],
+      "correct": "3"
+    },
+    {
+      "question": "A person borrows Rs. 5000 for 2 years at 4% p.a. simple interest. He immediately lends it to another person at 6% p.a for 2 years. Find his gain in the transaction per year.",
+      "options": [
+        "Rs. 112.50",
+        "Rs. 125",
+        "Rs. 225",
+        "Rs. 167.50"
+      ],
+      "correct": "0"
+    },
+    {
+      "question": "A bank offers 5% compound interest calculated on half-yearly basis. A customer deposits Rs. 1600 each on 1st January and 1st July of a year. At the end of the year, the amount he would have gained by way of interest is:",
+      "options": [
+        "Rs. 120",
+        "Rs. 121",
+        "Rs. 122",
+        "Rs. 123"
+      ],
+      "correct": "1"
+    },
+    {
+      "question": "The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is:",
+      "options": [
+        "625",
+        "630",
+        "640",
+        "650"
+      ],
+      "correct": "0"
+    },
+    {
+      "question": "There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?",
+      "options": [
+        "Rs. 2160",
+        "Rs. 3120",
+        "Rs. 3972",
+        "Rs. 6240"
+      ],
+      "correct": "2"
+    },
+    {
+      "question": "What is the difference between the compound interests on Rs. 5000 for 1 years at 4% per annum compounded yearly and half-yearly?",
+      "options": [
+        "Rs. 2.04",
+        "Rs. 3.06",
+        "Rs. 4.80",
+        "Rs. 8.30"
+      ],
+      "correct": "0"
+    },
+    {
+      "question": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
+      "options": [
+        "2",
+        "2.5",
+        "3",
+        "4"
+      ],
+      "correct": "0"
+    },
+    {
+      "question": "What will be the compound interest on a sum of Rs. 25,000 after 3 years at the rate of 12 p.c.p.a.?",
+      "options": [
+        "Rs. 9000.30",
+        "Rs. 9720",
+        "Rs. 10123.20",
+        "Rs. 10483.20"
+      ],
+      "correct": "2"
+    },
+    {
+      "question": "At what rate of compound interest per annum will a sum of Rs. 1200 become Rs. 1348.32 in 2 years?",
+      "options": [
+        "6%",
+        "6.5%",
+        "7%",
+        "7.5%"
+      ],
+      "correct": "0"
+    },
+    {
+      "question": "The least number of complete years in which a sum of money put out at 20% compound interest will be more than doubled is:",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": "1"
+    },
+    {
+      "question": "Albert invested an amount of Rs. 8000 in a fixed deposit scheme for 2 years at compound interest rate 5 p.c.p.a. How much amount will Albert get on maturity of the fixed deposit?",
+      "options": [
+        "Rs. 8600",
+        "Rs. 8620",
+        "Rs. 8820",
+        "None of these"
+      ],
+      "correct": "2"
+    },
+    {
+      "question": "The effective annual rate of interest corresponding to a nominal rate of 6% per annum payable half-yearly is:",
+      "options": [
+        "6.06%",
+        "6.07%",
+        "6.08%",
+        "6.09%"
+      ],
+      "correct": "3"
+    },
+    {
+      "question": "Simple interest on a certain sum of money for 3 years at 8% per annum is half the compound interest on Rs. 4000 for 2 years at 10% per annum. The sum placed on simple interest is:",
+      "options": [
+        "Rs. 1550",
+        "Rs. 1650",
+        "Rs. 1750",
+        "Rs. 2000"
+      ],
+      "correct": "2"
+    },
+    {
+      "question": "If the simple interest on a sum of money for 2 years at 5% per annum is Rs. 50, what is the compound interest on the same at the same rate and for the same time?",
+      "options": [
+        "Rs. 51.25",
+        "Rs. 52",
+        "Rs. 54.25",
+        "Rs. 60"
+      ],
+      "correct": "0"
+    },
+    {
+      "question": "The difference between simple interest and compound on Rs. 1200 for one year at 10% per annum reckoned half-yearly is:",
+      "options": [
+        "Rs. 2.50",
+        "Rs. 3",
+        "Rs. 3.75",
+        "Rs. 4"
+      ],
+      "correct": "1"
+    },
+    {
+      "question": "The difference between compound interest and simple interest on an amount of Rs. 15,000 for 2 years is Rs. 96. What is the rate of interest per annum?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "None of above"
+      ],
+      "correct": "0"
+    },
+    {
+      "question": "The compound interest on a certain sum for 2 years at 10% per annum is Rs. 525. The simple interest on the same sum for double the time at half the rate percent per annum is:",
+      "options": [
+        "Rs. 400",
+        "Rs. 500",
+        "Rs. 600",
+        "Rs. 800"
+      ],
+      "correct": "1"
+    }
+  ]
 }
